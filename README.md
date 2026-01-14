@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🪬 𝕯𝖓𝖆𝖓𝖉𝖍𝖎𝖐𝟰𝖙𝖝𝖘-𝖛𝖔𝖎𝖉 | ☣️ NODE: SHADOW_COMMAND_CENTER
 
-<!--
-**dnandhik4txs-void/dnandhik4txs-void** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=300&color=FF0000&center=true&vCenter=true&width=600&lines=BOOTING+INFILTRATION+OS...;RUBBER+DUCKY+PAYLOAD+READY;BASH+BUNNY+INJECTION+INITIALIZED;BYPASSING+ENDPOINT+EDR;EXTRACTING+SYSTEM+HASHES...;RUN." alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💀 EXPLOITATION_LOGS_STREAMS
+```diff
+- [CRITICAL] Physical Breach: USB Rubber Ducky Injected.
+- [BYPASS] Evasion: Bash Bunny Payload executing via HID.
+- [FARM] Referral Farmer: 40+ Sybil Nodes propagating via LDPlayer.
+- [GHOST] Mobile Phantom: Device ID Spoofing & IP Rotation active.
+- [VOID] Residential Tunnel: Data exfiltration via Rotating Proxy.
+- [WARN] Unauthorized access to this Node is logged and tracked.

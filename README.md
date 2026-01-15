@@ -13,6 +13,8 @@
 - [VOID] Residential Tunnel: ☁️ Data exfiltration via Rotating Proxy.
 - [WARN] Unauthorized access to this Node is logged and tracked.
 ```
+- 🔴 **[TERMINAL] Access Granted via:** [https://error-403.execute/dnandhik4txs](https://github.com/dnandhik4txs-void)
+
 ### 🛠️ ACTIVE_EXPLOITATION_MODULES
 <p align="left">
   <img src="https://img.shields.io/badge/SOCIAL--ENGINEERING-FF0000?style=for-the-badge&logo=target&logoColor=white" />

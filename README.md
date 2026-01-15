@@ -16,8 +16,8 @@
 
 ### 🛡️ SYSTEM_ANALYSIS_METRICS
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=dnandhik4txs-void&show_icons=true&theme=blood&hide_border=true" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnandhik4txs-void&layout=compact&theme=blood&hide_border=true" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dnandhik4txs-void&show_icons=true&theme=blood&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnandhik4txs-void&layout=compact&theme=blood&hide_border=true" />
 </p>
 
 > `[NODE_STATUS]: ANALYZING ENCRYPTION PATTERNS...`

@@ -5,14 +5,14 @@
 </p>
 
 ### 💀 EXPLOITATION_LOGS_STREAMS
-```diff
-- [CRITICAL] Physical Breach: USB Rubber Ducky Injected.
-- [BYPASS] Evasion: Bash Bunny Payload executing via HID.
-- [FARM] Referral Farmer: 40+ Sybil Nodes propagating via LDPlayer.
-- [GHOST] Mobile Phantom: Device ID Spoofing & IP Rotation active.
-- [VOID] Residential Tunnel: Data exfiltration via Rotating Proxy.
-- [WARN] Unauthorized access to this Node is logged and tracked.
-```
+<p align="left">
+  <img src="https://img.shields.io/badge/CRITICAL%20Physical%20Breach-USB%20Rubber%20Ducky%20Injected-red?style=for-the-badge&logo=usb&logoColor=white" />
+  <img src="https://img.shields.io/badge/BYPASS%20Evasion-Bash%20Bunny%20Payload%20Executing%20via%20HID-red?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/FARM%20Referral%20Farmer-40+%20Sybil%20Nodes%20Propagating%20via%20LDPlayer-red?style=for-the-badge&logo=play-games&logoColor=white" />
+  <img src="https://img.shields.io/badge/GHOST%20Mobile%20Phantom-Device%20ID%20Spoofing%20%26%20IP%20Rotation%20Active-red?style=for-the-badge&logo=ghost&logoColor=white" />
+  <img src="https://img.shields.io/badge/VOID%20Residential%20Tunnel-Data%20Exfiltration%20via%20Rotating%20Proxy-red?style=for-the-badge&logo=cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/WARN%20Unauthorized%20Access%20to%20this%20Node%20is%20Logged%20and%20Tracked-red?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ### 🛠️ ACTIVE_EXPLOITATION_MODULES
 ![SOCIAL-ENGINEERING](https://img.shields.io/badge/SOCIAL--ENGINEERING-red?style=for-the-badge&logo=target&logoColor=white) ![REMOTE-INFILTRATION](https://img.shields.io/badge/REMOTE--INFILTRATION-red?style=for-the-badge&logo=linux&logoColor=white) ![HID-INJECTION](https://img.shields.io/badge/HID--INJECTION-red?style=for-the-badge&logo=usb&logoColor=white)

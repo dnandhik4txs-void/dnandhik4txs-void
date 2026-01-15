@@ -14,10 +14,8 @@
 - [WARN] Unauthorized access to this Node is logged and tracked.
 ```
 
-### 🛡️ SYSTEM_ANALYSIS_METRICS
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dnandhik4txs-void&show_icons=true&theme=blood&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnandhik4txs-void&layout=compact&theme=blood&hide_border=true" />
-</p>
+### 📊 SYSTEM_METRICS_DASHBOARD
+![Stats](https://github-readme-stats.vercel.app/api?username=dnandhik4txs-void&show_icons=true&theme=blood&hide_border=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnandhik4txs-void&layout=compact&theme=blood&hide_border=true)
 
-> `[NODE_STATUS]: ANALYZING ENCRYPTION PATTERNS...`
+> `[NODE_STATUS]: ANALYZING_SYSTEM_INTEGRITY...`

@@ -14,8 +14,8 @@
 - [WARN] Unauthorized access to this Node is logged and tracked.
 ```
 
-### 🛠️ CURRENT_TOOLSET_LOADED
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🛠️ ACTIVE_EXPLOITATION_MODULES
+![SOCIAL-ENGINEERING](https://img.shields.io/badge/SOCIAL--ENGINEERING-red?style=for-the-badge&logo=target&logoColor=white) ![REMOTE-INFILTRATION](https://img.shields.io/badge/REMOTE--INFILTRATION-red?style=for-the-badge&logo=linux&logoColor=white) ![HID-INJECTION](https://img.shields.io/badge/HID--INJECTION-red?style=for-the-badge&logo=usb&logoColor=white)
+![DATA-EXFILTRATION](https://img.shields.io/badge/DATA--EXFILTRATION-red?style=for-the-badge&logo=data-canister&logoColor=white) ![BYPASS-EDR](https://img.shields.io/badge/BYPASS--EDR-red?style=for-the-badge&logo=shield&logoColor=white)
 
 > `[NODE_STATUS]: ANALYZING_SYSTEM_INTEGRITY...`

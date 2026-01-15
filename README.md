@@ -5,14 +5,14 @@
 </p>
 
 ### 💀 EXPLOITATION_LOGS_STREAMS
-
+```
 - 🔴 `[CRITICAL]` **Physical Breach:** 🛠️ USB Rubber Ducky Injected.
 - 🔴 `[BYPASS]` **Evasion:** 🐰 Bash Bunny Payload executing via HID.
 - 🔴 `[SYBIL]` **Node Propagation:** 🧬 40+ Ghost Identities active via Multi-Instance.
 - 🔴 `[GHOST]` **Mobile Phantom:** 👻 Device ID Spoofing & IP Rotation active.
 - 🔴 `[VOID]` **Residential Tunnel:** ☁️ Data exfiltration via Rotating Proxy.
 - 🔴 `[WARN]` **Unauthorized access to this Node is logged and tracked.**
-
+```
 ### 🛠️ ACTIVE_EXPLOITATION_MODULES
 ![SOCIAL-ENGINEERING](https://img.shields.io/badge/SOCIAL--ENGINEERING-red?style=for-the-badge&logo=target&logoColor=white) ![REMOTE-INFILTRATION](https://img.shields.io/badge/REMOTE--INFILTRATION-red?style=for-the-badge&logo=linux&logoColor=white) ![HID-INJECTION](https://img.shields.io/badge/HID--INJECTION-red?style=for-the-badge&logo=usb&logoColor=white)
 ![DATA-EXFILTRATION](https://img.shields.io/badge/DATA--EXFILTRATION-red?style=for-the-badge&logo=data-canister&logoColor=white) ![BYPASS-EDR](https://img.shields.io/badge/BYPASS--EDR-red?style=for-the-badge&logo=shield&logoColor=white)

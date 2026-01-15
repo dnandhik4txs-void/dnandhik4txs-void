@@ -14,8 +14,8 @@
 - [WARN] Unauthorized access to this Node is logged and tracked.
 ```
 
-### 📊 SYSTEM_METRICS_DASHBOARD
-![Stats](https://github-readme-stats.vercel.app/api?username=dnandhik4txs-void&show_icons=true&theme=blood&hide_border=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnandhik4txs-void&layout=compact&theme=blood&hide_border=true)
+### 🛠️ CURRENT_TOOLSET_LOADED
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 > `[NODE_STATUS]: ANALYZING_SYSTEM_INTEGRITY...`

@@ -12,3 +12,13 @@
 - [GHOST] Mobile Phantom: Device ID Spoofing & IP Rotation active.
 - [VOID] Residential Tunnel: Data exfiltration via Rotating Proxy.
 - [WARN] Unauthorized access to this Node is logged and tracked.
+
+---
+
+### 🛡️ SYSTEM_ANALYSIS_METRICS
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=dnandhik4txs-void&show_icons=true&theme=blood&hide_border=true" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnandhik4txs-void&layout=compact&theme=blood&hide_border=true" alt="Languages" />
+</p>
+
+> `[NODE_STATUS]: ANALYZING ENCRYPTION PATTERNS...`

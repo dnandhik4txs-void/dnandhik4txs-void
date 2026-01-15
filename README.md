@@ -14,7 +14,11 @@
 - 🔴 `[WARN]` **Unauthorized access to this Node is logged and tracked.**
 ```
 ### 🛠️ ACTIVE_EXPLOITATION_MODULES
-![SOCIAL-ENGINEERING](https://img.shields.io/badge/SOCIAL--ENGINEERING-red?style=for-the-badge&logo=target&logoColor=white) ![REMOTE-INFILTRATION](https://img.shields.io/badge/REMOTE--INFILTRATION-red?style=for-the-badge&logo=linux&logoColor=white) ![HID-INJECTION](https://img.shields.io/badge/HID--INJECTION-red?style=for-the-badge&logo=usb&logoColor=white)
-![DATA-EXFILTRATION](https://img.shields.io/badge/DATA--EXFILTRATION-red?style=for-the-badge&logo=data-canister&logoColor=white) ![BYPASS-EDR](https://img.shields.io/badge/BYPASS--EDR-red?style=for-the-badge&logo=shield&logoColor=white)
-
+<p align="left">
+  <img src="https://img.shields.io/badge/SOCIAL--ENGINEERING-FF0000?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/REMOTE--INFILTRATION-FF0000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/HID--INJECTION-FF0000?style=for-the-badge&logo=usb&logoColor=white" />
+  <img src="https://img.shields.io/badge/DATA--EXFILTRATION-FF0000?style=for-the-badge&logo=data-canister&logoColor=white" />
+  <img src="https://img.shields.io/badge/BYPASS--EDR-FF0000?style=for-the-badge&logo=shield&logoColor=white" />
+</p>
 > `[NODE_STATUS]: ANALYZING_SYSTEM_INTEGRITY...`

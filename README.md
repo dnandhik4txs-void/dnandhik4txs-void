@@ -5,7 +5,7 @@
 </p>
 
 ### 💀 EXPLOITATION_LOGS_STREAMS
-```
+```deff
 - 🔴 `[CRITICAL]` **Physical Breach:** 🛠️ USB Rubber Ducky Injected.
 - 🔴 `[BYPASS]` **Evasion:** 🐰 Bash Bunny Payload executing via HID.
 - 🔴 `[SYBIL]` **Node Propagation:** 🧬 40+ Ghost Identities active via Multi-Instance.

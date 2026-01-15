@@ -5,15 +5,14 @@
 </p>
 
 ### 💀 EXPLOITATION_LOGS_STREAMS
-diff
+```diff
 - [CRITICAL] Physical Breach: USB Rubber Ducky Injected.
 - [BYPASS] Evasion: Bash Bunny Payload executing via HID.
 - [FARM] Referral Farmer: 40+ Sybil Nodes propagating via LDPlayer.
 - [GHOST] Mobile Phantom: Device ID Spoofing & IP Rotation active.
 - [VOID] Residential Tunnel: Data exfiltration via Rotating Proxy.
 - [WARN] Unauthorized access to this Node is logged and tracked.
-
----
+```
 
 ### 🛡️ SYSTEM_ANALYSIS_METRICS
 <p align="left">
